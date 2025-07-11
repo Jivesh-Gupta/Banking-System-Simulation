@@ -48,6 +48,6 @@ A console-based banking system developed in **C++**, implementing core **OOP con
 |------|-------------|
 | `main.cpp` | Main source code for banking simulation |
 | `README.md` | Project documentation |
-| `screenshots/` | Output screenshots (optional) |
+| `screenshots/` | Output screenshots |
 
 ---
